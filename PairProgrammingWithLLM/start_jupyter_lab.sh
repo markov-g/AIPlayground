@@ -1,2 +1,2 @@
-pipenv run jupyter lab
+pipenv run jupyter-lab &
 

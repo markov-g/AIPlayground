@@ -1,0 +1,9 @@
+[submodule "Quivr"]
+	path = Quivr
+	url = https://github.com/StanGirard/Quivr.git
+[submodule "privateGPT"]
+	path = privateGPT
+	url = https://github.com/imartinez/privateGPT.git
+[submodule "TextGenWebUI"]
+	path = TextGenWebUI
+	url = git@github.com:oobabooga/text-generation-webui.git
