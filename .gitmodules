@@ -7,3 +7,6 @@
 [submodule "TextGenWebUI"]
 	path = TextGenWebUI
 	url = git@github.com:oobabooga/text-generation-webui.git
+[submodule "LLaMA-Factory"]
+	path = LLaMA-Factory
+	url = git@github.com:hiyouga/LLaMA-Factory.git
