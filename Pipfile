@@ -16,6 +16,14 @@ jupyter = "*"
 jupyterlab = "*"
 python-dotenv = "*"
 langchain-openai = "*"
+wandb = "*"
+langgraph = "*"
+langsmith = "*"
+langchainhub = "*"
+duckduckgo-search = "*"
+beautifulsoup4 = "*"
+gradio = "*"
+litellm = {extras = ["proxy"], version = "*"}
 
 [dev-packages]
 
