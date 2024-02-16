@@ -10,3 +10,6 @@
 [submodule "LLaMA-Factory"]
 	path = LLaMA-Factory
 	url = git@github.com:hiyouga/LLaMA-Factory.git
+[submodule "crewAI-examples"]
+	path = crewAI-examples
+	url = git@github.com:joaomdmoura/crewAI-examples.git
