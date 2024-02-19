@@ -24,6 +24,7 @@ duckduckgo-search = "*"
 beautifulsoup4 = "*"
 gradio = "*"
 litellm = {extras = ["proxy"], version = "*"}
+autogenstudio = "*"
 
 [dev-packages]
 

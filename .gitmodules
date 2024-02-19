@@ -13,3 +13,6 @@
 [submodule "crewAI-examples"]
 	path = crewAI-examples
 	url = git@github.com:joaomdmoura/crewAI-examples.git
+[submodule "Flowise"]
+	path = Flowise
+	url = git@github.com:FlowiseAI/Flowise.git
