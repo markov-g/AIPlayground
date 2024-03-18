@@ -25,6 +25,27 @@ beautifulsoup4 = "*"
 gradio = "*"
 litellm = {extras = ["proxy"], version = "*"}
 autogenstudio = "*"
+unstructured = "*"
+cython = "*"
+streamlit = "*"
+langchain-community = "*"
+wikipedia = "*"
+numexpr = "*"
+youtube-transcript-api = "*"
+rich = "*"
+textual = "*"
+textual-dev = "*"
+docx2txt = "*"
+crewai = "*"
+llama-index = "*"
+html2text = "*"
+llama-index-readers-web = "*"
+llama-index-llms-ollama = "*"
+llama-index-embeddings-huggingface = "*"
+neo4j = "*"
+streamlit-chat = "*"
+transformers = {extras = ["torch"], version = "*"}
+dspy-ai = {extras = ["chromadb"], version = "*"}
 
 [dev-packages]
 

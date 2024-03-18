@@ -16,3 +16,6 @@
 [submodule "Flowise"]
 	path = Flowise
 	url = git@github.com:FlowiseAI/Flowise.git
+[submodule "gpt-pilot"]
+	path = gpt-pilot
+	url = git@github.com:Pythagora-io/gpt-pilot.git
