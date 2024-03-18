@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flowise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LLaMA-Factory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Quivr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TextGenWebUI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crewAI-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gpt-pilot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/privateGPT" vcs="Git" />
   </component>
 </project>
